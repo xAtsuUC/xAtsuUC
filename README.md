@@ -5,13 +5,13 @@
   <br>
 
 <h3 align="center">
- - 🔭 I’m currently working on [StartonMC](https://startonmc.com)
- - 🌱 I’m currently learning [JavaScript](https://js.org)
- - 💬 Ask me about whatever you want!
- - 📫 How to reach me:
-   - Discord: `xAtsuUC_#5615`
+ - 🔭 I’m currently working on [StartonMC](https://startonmc.com) <br>
+ - 🌱 I’m currently learning [JavaScript](https://js.org) <br>
+ - 💬 Ask me about whatever you want! <br>
+ - 📫 How to reach me: <br>
+   - Discord: `xAtsuUC_#5615` <br>
  - 😄 Pronouns: He/Him
-</p>
+</h3>
 
 <!--
 
