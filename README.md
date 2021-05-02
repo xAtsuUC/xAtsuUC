@@ -3,13 +3,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xAtsuUC&show_icons=true&theme=onedark">
   </a>
   <br>
-  
+
+<p align="center">
 ### - 🔭 I’m currently working on [StartonMC](https://startonmc.com)
 ### - 🌱 I’m currently learning [JavaScript](https://js.org)
 ### - 💬 Ask me about whatever you want!
 ### - 📫 How to reach me:
   ### - Discord: `xAtsuUC_#5615`
 ### - 😄 Pronouns: He/Him
+</p>
 
 <!--
 
