@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center">
+  <a href="https://github.com/xAtsuUC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xAtsuUC&show_icons=true&theme=onedark">
+  </a>
+  <br>
+  <a href="https://github.com/xAtsuUC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAtsuUC&layout=compact&theme=onedark">
+  </a>
+</h2>
 
 <!--
 **xAtsuUC/xAtsuUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
