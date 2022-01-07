@@ -5,8 +5,8 @@
   <br>
 
 <h2 align="center">
- - 🔭 I’m currently working on [StartonMC](https://startonmc.com) <br>
- - 🌱 I’m currently learning [JavaScript](https://js.org) <br>
+ - 🔭 I’m currently working on <a>StartonMC</a href="https://startonmc.com"> <br>
+ - 🌱 I’m currently learning <a>JavaScript</a href="https://js.org)"> <br>
  - 💬 Ask me about whatever you want! <br>
  - 📫 How to reach me: <br>
  - Discord: `xAtsuUC_#5615` <br>
