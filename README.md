@@ -1,6 +1,6 @@
 <h2 align="center">
   <a href="https://github.com/xAtsuUC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xAtsuUC&show_icons=true&theme=onedark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xAtsuUC&show_icons=true&theme=onedark&count_private=true">
   </a>
   <br>
 
