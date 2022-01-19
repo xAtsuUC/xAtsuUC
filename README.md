@@ -10,7 +10,7 @@
  - 🌱 I’m currently learning <a>JavaScript</a href="https://js.org)"> <br>
  - 💬 Ask me about whatever you want! <br>
  - 📫 How to reach me: <br>
- - Discord: `xAtsuUC_#5615` <br>
+ - Discord: <a style="text-style: underline;">xAtsuUC_#5615</a> <br>
  - 😄 Pronouns: He/Him
 </h3>
 
