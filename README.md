@@ -2,7 +2,7 @@
  - 🌱 I’m currently learning <a>TypeScript</a href="https://www.typescriptlang.org/"> <br>
  - 💬 Ask me about whatever you want! <br>
  - 📫 How to reach me: <br>
- - E-Mail: <a href="mailto:tiziafioretti@gmail.com">tiziafioretti@gmail.com</a>
+ - E-Mail: <a href="mailto:tiziafioretti@gmail.com">tiziafioretti@gmail.com</a><br>
  - 😄 Pronouns: He/Him
 </h3>
 
